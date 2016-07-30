@@ -30,3 +30,8 @@ Some functionality are shown below:
     + Update Item
 
 	+ ![Update Item](screenshots/updateitem.png)	
+
+3. Executive Menu
+    + Executive Menu screenshot
+
+    + ![Executive Menu](screenshots/executivemenu.png)
