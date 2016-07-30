@@ -26,3 +26,7 @@ Some functionality are shown below:
     + Low Inventory
 
 	+ ![List Items](screenshots/lowinventory.png)	
+
+    + Update Item
+
+	+ ![Update Item](screenshots/updateitem.png)	
