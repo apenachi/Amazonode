@@ -1,12 +1,28 @@
 # Amazonode
 DMS Application written in node.js
+This is a menu driven application, all options can be selected using arrow keys
+below are the implemented functionality
 
-5. Reference the screenshots for the site located here:
-    + This is a menu driven application, all options can be selected using arrow keys
-    below are the implemented functionality
+Some functionality are shown below:
+
+1. Main Menu
+    + Main Menu screenshot
 
     + ![Main Menu](screenshots/mainmenu.png)
 
-    + ![Placing Order](screenshots/placeorder.png)
+    + Placing an Order
+
+	+ ![Placing Order](screenshots/placeorder.png)
+
+    + List All Items
+
+	+ ![List Items](screenshots/listitems.png)	
+
+2. Manager Menu
+    + Manager Menu screenshot
 
     + ![Manager Menu](screenshots/managermenu.png)
+
+    + Low Inventory
+
+	+ ![List Items](screenshots/lowinventory.png)	
